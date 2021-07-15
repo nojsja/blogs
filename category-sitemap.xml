@@ -92,14 +92,14 @@
     </url>
 
     <url>
-        <loc>https://nojsja.github.io/blogs/categories/HTTP/</loc>
+        <loc>https://nojsja.github.io/blogs/categories/React/</loc>
         <lastmod>2021-05-23T02:57:12.081Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://nojsja.github.io/blogs/categories/React/</loc>
+        <loc>https://nojsja.github.io/blogs/categories/HTTP/</loc>
         <lastmod>2021-05-23T02:57:12.081Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -134,6 +134,13 @@
     </url>
 
     <url>
+        <loc>https://nojsja.github.io/blogs/categories/Echarts/</loc>
+        <lastmod>2021-05-23T02:57:12.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://nojsja.github.io/blogs/categories/Tools/</loc>
         <lastmod>2021-05-23T02:57:12.062Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -142,13 +149,6 @@
 
     <url>
         <loc>https://nojsja.github.io/blogs/categories/Javascript/Node/</loc>
-        <lastmod>2021-05-23T02:57:12.062Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://nojsja.github.io/blogs/categories/Echarts/</loc>
         <lastmod>2021-05-23T02:57:12.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

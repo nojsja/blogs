@@ -101,6 +101,13 @@
     </url>
 
     <url>
+        <loc>https://nojsja.github.io/blogs/tags/ubuntu20-04/</loc>
+        <lastmod>2021-05-23T02:57:12.081Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://nojsja.github.io/blogs/tags/leetcode/</loc>
         <lastmod>2021-05-23T02:57:12.081Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,7 +115,7 @@
     </url>
 
     <url>
-        <loc>https://nojsja.github.io/blogs/tags/ubuntu20-04/</loc>
+        <loc>https://nojsja.github.io/blogs/tags/react/</loc>
         <lastmod>2021-05-23T02:57:12.081Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -129,7 +136,7 @@
     </url>
 
     <url>
-        <loc>https://nojsja.github.io/blogs/tags/react/</loc>
+        <loc>https://nojsja.github.io/blogs/tags/javascript/</loc>
         <lastmod>2021-05-23T02:57:12.081Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -137,13 +144,6 @@
 
     <url>
         <loc>https://nojsja.github.io/blogs/tags/css/</loc>
-        <lastmod>2021-05-23T02:57:12.081Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://nojsja.github.io/blogs/tags/javascript/</loc>
         <lastmod>2021-05-23T02:57:12.081Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,6 +171,13 @@
     </url>
 
     <url>
+        <loc>https://nojsja.github.io/blogs/tags/echarts/</loc>
+        <lastmod>2021-05-23T02:57:12.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://nojsja.github.io/blogs/tags/tools/</loc>
         <lastmod>2021-05-23T02:57:12.062Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -179,13 +186,6 @@
 
     <url>
         <loc>https://nojsja.github.io/blogs/tags/browser/</loc>
-        <lastmod>2021-05-23T02:57:12.062Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://nojsja.github.io/blogs/tags/echarts/</loc>
         <lastmod>2021-05-23T02:57:12.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://nojsja.github.io/blogs/tags/shadowsocks/</loc>
-        <lastmod>2021-05-23T02:57:12.062Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://nojsja.github.io/blogs/tags/proxy/</loc>
         <lastmod>2021-05-23T02:57:12.062Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,7 +220,7 @@
     </url>
 
     <url>
-        <loc>https://nojsja.github.io/blogs/tags/animation/</loc>
+        <loc>https://nojsja.github.io/blogs/tags/shadowsocks/</loc>
         <lastmod>2021-05-23T02:57:12.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,7 +241,7 @@
     </url>
 
     <url>
-        <loc>https://nojsja.github.io/blogs/tags/sass/</loc>
+        <loc>https://nojsja.github.io/blogs/tags/animation/</loc>
         <lastmod>2021-05-23T02:57:12.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -263,6 +256,13 @@
 
     <url>
         <loc>https://nojsja.github.io/blogs/tags/promise/</loc>
+        <lastmod>2021-05-23T02:57:12.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://nojsja.github.io/blogs/tags/sass/</loc>
         <lastmod>2021-05-23T02:57:12.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
